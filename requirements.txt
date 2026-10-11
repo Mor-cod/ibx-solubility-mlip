@@ -1,0 +1,6 @@
+torch>=2.2
+mace-torch>=0.3.16,<0.4
+e3nn==0.4.4
+ase>=3.23
+numpy
+scipy
